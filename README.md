@@ -1,2 +1,2 @@
 # edgeModules
-Modules For rapid 
+Modules For rapid projects development
